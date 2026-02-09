@@ -1,0 +1,16 @@
+# Node modules (The cause of your current error)
+node_modules/
+dist/
+build/
+
+# Python / MkDocs
+__pycache__/
+*.py[cod]
+site/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
