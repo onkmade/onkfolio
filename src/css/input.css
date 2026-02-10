@@ -1,1 +1,7 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com');
+
+
+@theme{
+    --breakpoint-xs: 30rem;
+}
